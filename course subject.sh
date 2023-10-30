@@ -12,4 +12,3 @@ echo "1.Maths 2.c programming 3. physics"
 else
 echo "I don't know"
 fi
-

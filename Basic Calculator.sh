@@ -20,6 +20,3 @@ case "$c" in
 #case 4
 "4" ) echo "Div Number:" $((num1/num2)) ;;
 esac
-
-
-
